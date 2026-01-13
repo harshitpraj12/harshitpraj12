@@ -1,6 +1,7 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyOTUwNjgsIm5iZiI6MTc2ODI5NDc2OCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEzVDA4NTkyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiODE4YmYyZWE0NGNhMjFhNTFjYTU4YmM0YjQxMDM1MWU3Zjc1OGQzYjVkMDBiNDBhMTI1NTVjZjYxMDJmMjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3JTUHj-P2fYS8Rc378kPCGuM7GB6ugAM1hsWMguQUpk)
+<img align="right" alt="coding" width="100%" height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyOTUwNjgsIm5iZiI6MTc2ODI5NDc2OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTEzVDA4NTkyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwZTRkNjg0Njk1NTRkZjAxZDM4N2Q0ODJiYzM1NTA2MTUzNzQwMWUwOGQxOWM5NDE3NmJhN2Q4NTczY2Q4ZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xqCcVprqcriagjsqkXCig-bPXmn6IFC1btuLcUoqolY">
 
 <h1 align="center">Hi 👋, I'm Harshit Raj</h1>
+<img align="right" alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
@@ -31,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitpraj12&show_icons=true&locale=en" alt="harshitpraj12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpraj12&" alt="harshitpraj12" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpraj12&" alt="harshitpraj12" /></p>
